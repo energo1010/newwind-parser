@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<yml_catalog date="2026-10-22 17:41">
+  <shop>
+    <name>NewWind Import</name>
+    <company>NewWind</company>
+    <url>https://newwind.net.ua</url>
+    <currencies>
+      <currency id="UAH" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Вентиляція та кліматична техніка</category>
+    </categories>
+    <offers/>
+  </shop>
+</yml_catalog>
