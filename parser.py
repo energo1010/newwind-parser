@@ -12,9 +12,12 @@ headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
 
+session = requests.Session()
+session.headers.update(headers)
+
 def get_soup(url):
     try:
-        response = requests.get(url, headers=headers, timeout=15)
+        response = session.get(url, timeout=10)
         response.encoding = 'utf-8'
         if response.status_code == 200:
             return BeautifulSoup(response.text, 'html.parser')
@@ -63,7 +66,6 @@ def parse_product_details(product_url):
 def build_yml_feed():
     print("Початок збору даних з newwind.net.ua...")
     
-    # Створення структури YML
     yml_catalog = ET.Element('yml_catalog', date=time.strftime("%Y-%m-%d %H:%M"))
     shop = ET.SubElement(yml_catalog, 'shop')
     
@@ -71,11 +73,9 @@ def build_yml_feed():
     ET.SubElement(shop, 'company').text = "NewWind"
     ET.SubElement(shop, 'url').text = BASE_URL
 
-    # Валюти
     currencies = ET.SubElement(shop, 'currencies')
     ET.SubElement(currencies, 'currency', id="UAH", rate="1")
 
-    # Категорії
     categories = ET.SubElement(shop, 'categories')
     cat_elem = ET.SubElement(categories, 'category', id="1")
     cat_elem.text = "Вентиляція та кліматична техніка"
@@ -101,7 +101,6 @@ def build_yml_feed():
 
         for card in product_cards:
             try:
-                # Посилання на товар
                 link_elem = card.find('a', {'data-qaid': 'product_link'}) or card.find('a', class_='b-product-gallery__title')
                 if not link_elem or not link_elem.get('href'):
                     continue
@@ -110,16 +109,13 @@ def build_yml_feed():
                 if not prod_url.startswith('http'):
                     prod_url = BASE_URL + prod_url
 
-                # Назва
                 title = link_elem.text.strip()
 
-                # Наявність
                 available = "true"
                 status_elem = card.find('span', {'data-qaid': 'product_presence'})
                 if status_elem and ('немає' in status_elem.text.lower() or 'під замовлення' in status_elem.text.lower()):
                     available = "false"
 
-                # Ціна
                 price_elem = card.find('span', {'data-qaid': 'product_price'}) or card.find('span', class_='b-product-gallery__price')
                 if not price_elem:
                     continue
@@ -129,14 +125,11 @@ def build_yml_feed():
                     continue
                 price = int(price_text)
 
-                # Артикул (SKU)
                 sku_elem = card.find('span', {'data-qaid': 'product_code'})
                 sku = sku_elem.text.replace('Код:', '').strip() if sku_elem else f"NW-{total_parsed+1}"
 
-                # Збираємо деталі (опис, додаткові фото, характеристики)
                 details = parse_product_details(prod_url)
 
-                # Формуємо тег offer у YML
                 offer = ET.SubElement(offers, 'offer', id=sku, available=available)
                 ET.SubElement(offer, 'url').text = prod_url
                 ET.SubElement(offer, 'price').text = str(price)
@@ -145,29 +138,24 @@ def build_yml_feed():
                 ET.SubElement(offer, 'name').text = title
                 ET.SubElement(offer, 'vendorCode').text = sku
 
-                # Фотографії
                 for img_url in details['images']:
                     ET.SubElement(offer, 'picture').text = img_url
 
-                # Опис
                 if details['description']:
                     ET.SubElement(offer, 'description').text = f"<![CDATA[{details['description']}]]>"
 
-                # ХАРАКТЕРИСТИКИ ДЛЯ PROM.UA
                 for param_name, param_val in details['params'].items():
                     param_tag = ET.SubElement(offer, 'param', name=param_name)
                     param_tag.text = param_val
 
                 total_parsed += 1
-                print(f"Успішно додано товар [{sku}]: {title}")
 
             except Exception as e:
                 print(f"Помилка при опрацюванні товару: {e}")
 
+        print(f"Опрацьовано сторінку {page}. Всього збережено товарів: {total_parsed}")
         page += 1
-        time.sleep(1) # Затримка, щоб не перевантажувати сайт
 
-    # Збереження у красивий XML
     xml_str = minidom.parseString(ET.tostring(yml_catalog, encoding='utf-8')).toprettyxml(indent="  ")
     with open("newwind_feed.xml", "w", encoding="utf-8") as f:
         f.write(xml_str)
