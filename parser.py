@@ -25,46 +25,8 @@ def get_soup(url):
         print(f"Помилка завантаження {url}: {e}")
     return None
 
-def parse_product_details(product_url):
-    soup = get_soup(product_url)
-    if not soup:
-        return {}, []
-
-    details = {
-        'description': '',
-        'images': [],
-        'params': {}
-    }
-
-    # Опис
-    desc_elem = soup.find('div', {'data-qaid': 'product_description'}) or soup.find('div', class_='b-user-content')
-    if desc_elem:
-        details['description'] = desc_elem.decode_contents().strip()
-
-    # Додаткові зображення
-    img_elems = soup.find_all('img', {'data-qaid': 'product_image'})
-    for img in img_elems:
-        src = img.get('src') or img.get('data-src')
-        if src:
-            if not src.startswith('http'):
-                src = BASE_URL + src
-            if src not in details['images']:
-                details['images'].append(src)
-
-    # Характеристики (таблиця параметрів)
-    param_rows = soup.find_all('tr', {'data-qaid': 'product_attribute'}) or soup.find_all('tr', class_='b-product-info__row')
-    for row in param_rows:
-        cols = row.find_all(['td', 'th'])
-        if len(cols) >= 2:
-            name = cols[0].text.strip().rstrip(':')
-            value = cols[1].text.strip()
-            if name and value:
-                details['params'][name] = value
-
-    return details
-
 def build_yml_feed():
-    print("Початок збору даних з newwind.net.ua...")
+    print("Швидкий збір даних з newwind.net.ua...")
     
     yml_catalog = ET.Element('yml_catalog', date=time.strftime("%Y-%m-%d %H:%M"))
     shop = ET.SubElement(yml_catalog, 'shop')
@@ -85,7 +47,7 @@ def build_yml_feed():
     page = 1
     total_parsed = 0
 
-    while True:
+    while page <= 50:  # Обмежуємо максимум сторінок для безпеки, можна змінити за потреби
         page_url = f"{CATALOG_URL}?page={page}"
         print(f"Парсинг сторінки каталогу №{page}...")
         soup = get_soup(page_url)
@@ -128,8 +90,6 @@ def build_yml_feed():
                 sku_elem = card.find('span', {'data-qaid': 'product_code'})
                 sku = sku_elem.text.replace('Код:', '').strip() if sku_elem else f"NW-{total_parsed+1}"
 
-                details = parse_product_details(prod_url)
-
                 offer = ET.SubElement(offers, 'offer', id=sku, available=available)
                 ET.SubElement(offer, 'url').text = prod_url
                 ET.SubElement(offer, 'price').text = str(price)
@@ -138,22 +98,22 @@ def build_yml_feed():
                 ET.SubElement(offer, 'name').text = title
                 ET.SubElement(offer, 'vendorCode').text = sku
 
-                for img_url in details['images']:
-                    ET.SubElement(offer, 'picture').text = img_url
+                # Збираємо картинку з каталогу напряму
+                img_elem = card.find('img', {'data-qaid': 'product_image'}) or card.find('img')
+                if img_elem:
+                    img_src = img_elem.get('src') or img_elem.get('data-src')
+                    if img_src:
+                        if not img_src.startswith('http'):
+                            img_src = BASE_URL + img_src
+                        ET.SubElement(offer, 'picture').text = img_src
 
-                if details['description']:
-                    ET.SubElement(offer, 'description').text = f"<![CDATA[{details['description']}]]>"
-
-                for param_name, param_val in details['params'].items():
-                    param_tag = ET.SubElement(offer, 'param', name=param_name)
-                    param_tag.text = param_val
+                ET.SubElement(offer, 'description').text = f"<![CDATA[{title} - замовити в інтернет-магазині NewWind з доставкою.]]>"
 
                 total_parsed += 1
 
             except Exception as e:
                 print(f"Помилка при опрацюванні товару: {e}")
 
-        print(f"Опрацьовано сторінку {page}. Всього збережено товарів: {total_parsed}")
         page += 1
 
     xml_str = minidom.parseString(ET.tostring(yml_catalog, encoding='utf-8')).toprettyxml(indent="  ")
