@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2026-10-30 03:30">
+<yml_catalog date="2026-10-31 03:29">
   <shop>
     <name>NewWind</name>
     <company>NewWind</company>
@@ -241,10 +241,10 @@
         <price>42773635</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–15%Залишилось 2 дні</name>
+        <name>–15%Тільки сьогодні</name>
         <vendorCode>5210603100</vendorCode>
         <picture>https://images.prom.ua/7143165538_w249_h200_vityazhnij-ventilyator-dlya.jpg</picture>
-        <description>&lt;![CDATA[–15%Залишилось 2 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–15%Тільки сьогодні — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="5210072400" available="true">
         <url>https://newwind.net.ua/ua/p1320126930-vytyazhnoj-ventilyator-soler.html</url>
@@ -271,10 +271,10 @@
         <price>36473100</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–15%Залишилось 2 дні</name>
+        <name>–15%Тільки сьогодні</name>
         <vendorCode>5210400700</vendorCode>
         <picture>https://images.prom.ua/2801876943_w249_h200_vityazhnij-ventilyator-soler.jpg</picture>
-        <description>&lt;![CDATA[–15%Залишилось 2 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–15%Тільки сьогодні — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="5210104500" available="true">
         <url>https://newwind.net.ua/ua/p1667397092-vytyazhnoj-ventilyator-soler.html</url>
@@ -301,10 +301,10 @@
         <price>98348359</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–15%Залишилось 2 дні</name>
+        <name>–15%Тільки сьогодні</name>
         <vendorCode>5210640600</vendorCode>
         <picture>https://images.prom.ua/2801723899_w249_h200_vityazhnij-ventilyator-z.jpg</picture>
-        <description>&lt;![CDATA[–15%Залишилось 2 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–15%Тільки сьогодні — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="5210641000" available="true">
         <url>https://newwind.net.ua/ua/p1317133068-vytyazhnoj-ventilyator-tajmerom.html</url>
@@ -991,20 +991,20 @@
         <price>57884920</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–15%Залишилось 2 дні</name>
+        <name>–15%Тільки сьогодні</name>
         <vendorCode>5210007700</vendorCode>
         <picture>https://images.prom.ua/7143157644_w249_h200_vityazhnij-ventilyator-dlya.jpg</picture>
-        <description>&lt;![CDATA[–15%Залишилось 2 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–15%Тільки сьогодні — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="5210007800" available="true">
         <url>https://newwind.net.ua/ua/p2373729515-vytyazhnoj-ventilyator-dlya.html</url>
         <price>43093663</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–15%Залишилось 2 дні</name>
+        <name>–15%Тільки сьогодні</name>
         <vendorCode>5210007800</vendorCode>
         <picture>https://images.prom.ua/7143169253_w249_h200_vityazhnij-ventilyator-dlya.jpg</picture>
-        <description>&lt;![CDATA[–15%Залишилось 2 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–15%Тільки сьогодні — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="5210009700" available="true">
         <url>https://newwind.net.ua/ua/p2373740453-vytyazhnoj-ventilyator-dlya.html</url>
@@ -1241,10 +1241,10 @@
         <price>36593521</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>Топ–4%Залишилось 2 дні</name>
+        <name>Топ–4%Тільки сьогодні</name>
         <vendorCode>100WHITE</vendorCode>
         <picture>https://images.prom.ua/7680541853_w249_h200_vityazhnij-ventilyator-prihovanogo.jpg</picture>
-        <description>&lt;![CDATA[Топ–4%Залишилось 2 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[Топ–4%Тільки сьогодні — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="WHITE" available="true">
         <url>https://newwind.net.ua/ua/p2757972622-modul-ckrytogo-montazha.html</url>
@@ -1281,10 +1281,10 @@
         <price>38543697</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–4%Залишилось 2 дні</name>
+        <name>–4%Тільки сьогодні</name>
         <vendorCode>125WHITE</vendorCode>
         <picture>https://images.prom.ua/7682291939_w249_h200_vityazhnij-ventilyator-prihovanogo.jpg</picture>
-        <description>&lt;![CDATA[–4%Залишилось 2 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–4%Тільки сьогодні — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="125tsWHITE" available="true">
         <url>https://newwind.net.ua/ua/p2760265288-vytyazhnoj-ventilyator-skrytogo.html</url>
@@ -1321,10 +1321,10 @@
         <price>36593521</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–4%Залишилось 2 дні</name>
+        <name>–4%Тільки сьогодні</name>
         <vendorCode>100BLACK</vendorCode>
         <picture>https://images.prom.ua/7680799471_w249_h200_vityazhnij-ventilyator-prihovanogo.jpg</picture>
-        <description>&lt;![CDATA[–4%Залишилось 2 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–4%Тільки сьогодні — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="100tsBLACK" available="true">
         <url>https://newwind.net.ua/ua/p2766815922-vytyazhnoj-ventilyator-skrytogo.html</url>
@@ -1391,10 +1391,10 @@
         <price>36593521</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–4%Залишилось 2 дні</name>
+        <name>–4%Тільки сьогодні</name>
         <vendorCode>100GREY</vendorCode>
         <picture>https://images.prom.ua/7687401324_w249_h200_vityazhnij-ventilyator-prihovanogo.jpg</picture>
-        <description>&lt;![CDATA[–4%Залишилось 2 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–4%Тільки сьогодні — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="100tsGREY" available="true">
         <url>https://newwind.net.ua/ua/p2814218337-vytyazhnoj-ventilyator-skrytogo.html</url>
@@ -1491,10 +1491,10 @@
         <price>59275380</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–9%Залишилось 2 дні</name>
+        <name>–9%Тільки сьогодні</name>
         <vendorCode>TEZ-SPWHITE100cz</vendorCode>
         <picture>https://images.prom.ua/7685517662_w249_h200_vityazhnij-ventilyator-prihovanogo.jpg</picture>
-        <description>&lt;![CDATA[–9%Залишилось 2 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–9%Тільки сьогодні — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="TEZ-SPWHITE100crz" available="true">
         <url>https://newwind.net.ua/ua/p2943665305-vytyazhnoj-ventilyator-skrytogo.html</url>
@@ -1521,10 +1521,10 @@
         <price>59275380</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–9%Залишилось 2 дні</name>
+        <name>–9%Тільки сьогодні</name>
         <vendorCode>TEZ-SPBLACK100cz</vendorCode>
         <picture>https://images.prom.ua/7143306279_w249_h200_vityazhnij-ventilyator-prihovanogo.jpg</picture>
-        <description>&lt;![CDATA[–9%Залишилось 2 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–9%Тільки сьогодні — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="TEZ-SPBLACK100crz" available="true">
         <url>https://newwind.net.ua/ua/p2944054617-vytyazhnoj-ventilyator-skrytogo.html</url>
@@ -3491,10 +3491,10 @@
         <price>730621</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–15%Залишилось 2 дні</name>
+        <name>–15%Тільки сьогодні</name>
         <vendorCode>01-053</vendorCode>
         <picture>https://images.prom.ua/2797727396_w249_h200_ventilyator-vityazhnij-dlya.jpg</picture>
-        <description>&lt;![CDATA[–15%Залишилось 2 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–15%Тільки сьогодні — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="01-060" available="true">
         <url>https://newwind.net.ua/ua/p1315728164-vytyazhnoj-ventilyator-airroxy.html</url>
@@ -3511,20 +3511,20 @@
         <price>925786</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–15%Залишилось 2 дні</name>
+        <name>–15%Тільки сьогодні</name>
         <vendorCode>01-095</vendorCode>
         <picture>https://images.prom.ua/5064105063_w249_h200_ventilyator-vityazhnij-dlya.jpg</picture>
-        <description>&lt;![CDATA[–15%Залишилось 2 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–15%Тільки сьогодні — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="01-090" available="true">
         <url>https://newwind.net.ua/ua/p1315858208-vytyazhnoj-ventilyator-dlya.html</url>
         <price>822699</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–15%Залишилось 2 дні</name>
+        <name>–15%Тільки сьогодні</name>
         <vendorCode>01-090</vendorCode>
         <picture>https://images.prom.ua/2797727396_w249_h200_ventilyator-vityazhnij-dlya.jpg</picture>
-        <description>&lt;![CDATA[–15%Залишилось 2 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–15%Тільки сьогодні — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="01-005" available="true">
         <url>https://newwind.net.ua/ua/p1316443278-vytyazhnoj-ventilyator-dlya.html</url>
@@ -3551,10 +3551,10 @@
         <price>14211208</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–15%Залишилось 2 дні</name>
+        <name>–15%Тільки сьогодні</name>
         <vendorCode>01-001</vendorCode>
         <picture>https://images.prom.ua/2799545969_w249_h200_ventilyator-vityazhnij-dlya.jpg</picture>
-        <description>&lt;![CDATA[–15%Залишилось 2 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–15%Тільки сьогодні — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="01-032" available="true">
         <url>https://newwind.net.ua/ua/p1509721925-vytyazhnoj-ventilyator-dlya.html</url>
@@ -4061,10 +4061,10 @@
         <price>999849</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–15%Залишилось 2 дні</name>
+        <name>–15%Тільки сьогодні</name>
         <vendorCode>01-080</vendorCode>
         <picture>https://images.prom.ua/6973156749_w249_h200_ventilyator-vityazhnij-dlya.jpg</picture>
-        <description>&lt;![CDATA[–15%Залишилось 2 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–15%Тільки сьогодні — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="01-083" available="true">
         <url>https://newwind.net.ua/ua/p2852271776-vytyazhnoj-ventilyator-dlya.html</url>
@@ -4881,10 +4881,10 @@
         <price>3895121370</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–45%Залишилось 2 дні</name>
+        <name>–45%Тільки сьогодні</name>
         <vendorCode>5144308200</vendorCode>
         <picture>https://images.prom.ua/4265797123_w249_h200_pobutovij-rekuperator-z.jpg</picture>
-        <description>&lt;![CDATA[–45%Залишилось 2 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–45%Тільки сьогодні — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="01-320" available="true">
         <url>https://newwind.net.ua/ua/p2583045414-rekuperator-vozduha-dvigatelem.html</url>
@@ -8256,16 +8256,6 @@
         <picture>https://images.prom.ua/7103846232_w249_h200_dahovij-ventilyator-soler.jpg</picture>
         <description>&lt;![CDATA[Даховий вентилятор Soler &amp; Palau TH-500/150 3V  трьохшвидкісний — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
-      <offer id="5220001300" available="true">
-        <url>https://newwind.net.ua/ua/p2940816923-kryshnyj-ventilyator-soler.html</url>
-        <price>31151</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1</categoryId>
-        <name>Даховий вентилятор Soler &amp; Palau TH-800 3V трьохшвидкісний</name>
-        <vendorCode>5220001300</vendorCode>
-        <picture>https://images.prom.ua/7103846232_w249_h200_dahovij-ventilyator-soler.jpg</picture>
-        <description>&lt;![CDATA[Даховий вентилятор Soler &amp; Palau TH-800 3V трьохшвидкісний — купити в інтернет-магазині NewWind.]]&gt;</description>
-      </offer>
       <offer id="5211306200" available="true">
         <url>https://newwind.net.ua/ua/p3007058032-kanalnyj-ventilyator-tajmerom.html</url>
         <price>25623</price>
@@ -9111,10 +9101,10 @@
         <price>1100944</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–14%Залишилось 2 дні</name>
+        <name>–14%Тільки сьогодні</name>
         <vendorCode>01-049</vendorCode>
         <picture>https://images.prom.ua/2799872917_w249_h200_ventilyator-kanalnij-vityazhnij.jpg</picture>
-        <description>&lt;![CDATA[–14%Залишилось 2 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–14%Тільки сьогодні — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="01-051" available="true">
         <url>https://newwind.net.ua/ua/p1455272013-vytyazhnoj-kanalnyj-ventilyator.html</url>
@@ -9816,85 +9806,75 @@
         <picture>https://images.prom.ua/7282316675_w249_h200_regulyator-shvidkosti-soler-and-palau.jpg</picture>
         <description>&lt;![CDATA[Регулятор швидкості Soler&amp;Palau REB-5 — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
-      <offer id="HRV125Р" available="true">
-        <url>https://newwind.net.ua/ua/p1871631999-rekuperator-vozduha-distantsionnym.html</url>
-        <price>15115</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1</categoryId>
-        <name>Гарантіія 2 Роки</name>
-        <vendorCode>HRV125Р</vendorCode>
-        <picture>https://images.prom.ua/4607899308_w249_h200_rekuperator-povitrya-z.jpg</picture>
-        <description>&lt;![CDATA[Гарантіія 2 Роки — купити в інтернет-магазині NewWind.]]&gt;</description>
-      </offer>
       <offer id="PEE100-Ecru" available="true">
         <url>https://newwind.net.ua/ua/p1884968863-panel-dlya-rekuperatora.html</url>
-        <price>267</price>
+        <price>267187</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>Панель для рекуператору повітря бежева Awenta PEE 100 Escudo Ecru</name>
+        <name>–30%Залишився 31 день</name>
         <vendorCode>PEE100-Ecru</vendorCode>
         <picture>https://images.prom.ua/4655920186_w249_h200_panel-dlya-rekuperatoru.jpg</picture>
-        <description>&lt;![CDATA[Панель для рекуператору повітря бежева Awenta PEE 100 Escudo Ecru — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–30%Залишився 31 день — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="PEE125-Ecru" available="true">
         <url>https://newwind.net.ua/ua/p1884974492-panel-dlya-rekuperator.html</url>
-        <price>369</price>
+        <price>369258</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>Панель для рекуператору повітря бежева Awenta PEB 125 Escudo Ecru</name>
+        <name>–30%Залишився 31 день</name>
         <vendorCode>PEE125-Ecru</vendorCode>
         <picture>https://images.prom.ua/4655920186_w249_h200_panel-dlya-rekuperatoru.jpg</picture>
-        <description>&lt;![CDATA[Панель для рекуператору повітря бежева Awenta PEB 125 Escudo Ecru — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–30%Залишився 31 день — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="PES100-Silver" available="true">
         <url>https://newwind.net.ua/ua/p1884974885-panel-dlya-rekuperator.html</url>
-        <price>472</price>
+        <price>472330</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>Панель для рекуператору повітря срібло Awenta PES 100 Escudo Silver</name>
+        <name>–30%Залишився 31 день</name>
         <vendorCode>PES100-Silver</vendorCode>
         <picture>https://images.prom.ua/4655940521_w249_h200_panel-dlya-rekuperatoru.jpg</picture>
-        <description>&lt;![CDATA[Панель для рекуператору повітря срібло Awenta PES 100 Escudo Silver — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–30%Залишився 31 день — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="PES125-Silver" available="true">
         <url>https://newwind.net.ua/ua/p1884976322-panel-dlya-rekuperator.html</url>
-        <price>574</price>
+        <price>574402</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>Панель для рекуператору повітря срібна Awenta PES 125 Escudo Silver</name>
+        <name>–30%Залишився 31 день</name>
         <vendorCode>PES125-Silver</vendorCode>
         <picture>https://images.prom.ua/4655940521_w249_h200_panel-dlya-rekuperatoru.jpg</picture>
-        <description>&lt;![CDATA[Панель для рекуператору повітря срібна Awenta PES 125 Escudo Silver — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–30%Залишився 31 день — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="PEZ125-Gold" available="true">
         <url>https://newwind.net.ua/ua/p1884976680-panel-zolotistaya-dlya.html</url>
-        <price>574</price>
+        <price>574402</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>Панель золотиста для рекуператору повітря Awenta PEZ 125 Escudo Gold</name>
+        <name>–30%Залишився 31 день</name>
         <vendorCode>PEZ125-Gold</vendorCode>
         <picture>https://images.prom.ua/4655946536_w249_h200_panel-zolotista-dlya.jpg</picture>
-        <description>&lt;![CDATA[Панель золотиста для рекуператору повітря Awenta PEZ 125 Escudo Gold — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–30%Залишився 31 день — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="VO2448" available="true">
         <url>https://newwind.net.ua/ua/p2385646769-teploventilyator-stoyachij-lezhachij.html</url>
         <price>1200840</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–30%Залишилось 32 дні</name>
+        <name>–30%Залишився 31 день</name>
         <vendorCode>VO2448</vendorCode>
         <picture>https://images.prom.ua/6323647015_w249_h200_teploventilyator-stoyachij-i.jpg</picture>
-        <description>&lt;![CDATA[–30%Залишилось 32 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–30%Залишився 31 день — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="VO0025" available="true">
         <url>https://newwind.net.ua/ua/p2181026465-bytovoj-nastolnyj-ventilyator.html</url>
         <price>1511105770</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–30%Залишилось 32 дні</name>
+        <name>–30%Залишився 31 день</name>
         <vendorCode>VO0025</vendorCode>
         <picture>https://images.prom.ua/6694922500_w249_h200_pobutovij-nastilnij-ventilyator.jpg</picture>
-        <description>&lt;![CDATA[–30%Залишилось 32 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–30%Залишився 31 день — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="VO0021" available="true">
         <url>https://newwind.net.ua/ua/p2181018594-bytovoj-nastolnyj-ventilyator.html</url>
@@ -9911,10 +9891,10 @@
         <price>770693</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–10%Залишилось 2 дні</name>
+        <name>–10%Тільки сьогодні</name>
         <vendorCode>VO2546</vendorCode>
         <picture>https://images.prom.ua/6694914701_w249_h200_pobutovij-nastilnij-ventilyator.jpg</picture>
-        <description>&lt;![CDATA[–10%Залишилось 2 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–10%Тільки сьогодні — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="VO0605" available="true">
         <url>https://newwind.net.ua/ua/p2191551258-ultrazvukovoj-uvlazhnitel-vozduha.html</url>
@@ -9941,20 +9921,20 @@
         <price>1082974</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–10%Залишилось 2 дні</name>
+        <name>–10%Тільки сьогодні</name>
         <vendorCode>VO0855</vendorCode>
         <picture>https://images.prom.ua/5737122031_w249_h200_ultrazvukovij-usb-zvolozhuvach-povitrya.jpg</picture>
-        <description>&lt;![CDATA[–10%Залишилось 2 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–10%Тільки сьогодні — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="VO1941" available="true">
         <url>https://newwind.net.ua/ua/p2595271243-bytovoj-nastolnyj-ventilyator.html</url>
         <price>3521246470</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–30%Залишилось 32 дні</name>
+        <name>–30%Залишився 31 день</name>
         <vendorCode>VO1941</vendorCode>
         <picture>https://images.prom.ua/6631847787_w249_h200_pobutovij-nastilnij-ventilyator.jpg</picture>
-        <description>&lt;![CDATA[–30%Залишилось 32 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–30%Залишився 31 день — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="VO0856" available="true">
         <url>https://newwind.net.ua/ua/p2190192912-ultrazvukovoj-uvlazhnitel-vozduha.html</url>
@@ -9971,10 +9951,10 @@
         <price>14371293</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–10%Залишилось 2 дні</name>
+        <name>–10%Тільки сьогодні</name>
         <vendorCode>VO0849</vendorCode>
         <picture>https://images.prom.ua/6629369404_w249_h200_ultrazvukovij-zvolozhuvach-povitrya.jpg</picture>
-        <description>&lt;![CDATA[–10%Залишилось 2 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–10%Тільки сьогодні — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="VO0020" available="true">
         <url>https://newwind.net.ua/ua/p2181003221-bytovoj-nastolnyj-ventilyator.html</url>
@@ -10051,30 +10031,30 @@
         <price>23182086</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–10%Залишилось 2 дні</name>
+        <name>–10%Тільки сьогодні</name>
         <vendorCode>VO2140</vendorCode>
         <picture>https://images.prom.ua/5742401430_w249_h200_zvolozhuvach-povitrya-z.jpg</picture>
-        <description>&lt;![CDATA[–10%Залишилось 2 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–10%Тільки сьогодні — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="VO0854" available="true">
         <url>https://newwind.net.ua/ua/p2191917171-ultrazvukovoj-uvlazhnitel-vozduha.html</url>
         <price>27352462</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–10%Залишилось 2 дні</name>
+        <name>–10%Тільки сьогодні</name>
         <vendorCode>VO0854</vendorCode>
         <picture>https://images.prom.ua/5743729578_w249_h200_ultrazvukovij-zvolozhuvach-povitrya.jpg</picture>
-        <description>&lt;![CDATA[–10%Залишилось 2 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–10%Тільки сьогодні — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="VO3001" available="true">
         <url>https://newwind.net.ua/ua/p2191938577-ultrazvukovoj-uvlazhnitel-distantsionnym.html</url>
         <price>34693122</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–10%Залишилось 2 дні</name>
+        <name>–10%Тільки сьогодні</name>
         <vendorCode>VO3001</vendorCode>
         <picture>https://images.prom.ua/5743776124_w249_h200_ultrazvukovij-zvolozhuvach-povitrya.jpg</picture>
-        <description>&lt;![CDATA[–10%Залишилось 2 дні — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–10%Тільки сьогодні — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="VO0848" available="true">
         <url>https://newwind.net.ua/ua/p2593578281-ultrazvukovoj-uvlazhnitel-vozduha.html</url>
@@ -11456,6 +11436,16 @@
         <picture>https://images.prom.ua/3902434942_w249_h200_kanalnij-ventilyator-soler.jpg</picture>
         <description>&lt;![CDATA[Канальний вентилятор Soler &amp; Palau TD-1000/200 silent — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
+      <offer id="5220001300" available="true">
+        <url>https://newwind.net.ua/ua/p2940816923-kryshnyj-ventilyator-soler.html</url>
+        <price>31151</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <name>Даховий вентилятор Soler &amp; Palau TH-800 3V трьохшвидкісний</name>
+        <vendorCode>5220001300</vendorCode>
+        <picture>https://images.prom.ua/7103846232_w249_h200_dahovij-ventilyator-soler.jpg</picture>
+        <description>&lt;![CDATA[Даховий вентилятор Soler &amp; Palau TH-800 3V трьохшвидкісний — купити в інтернет-магазині NewWind.]]&gt;</description>
+      </offer>
       <offer id="КДКпф125" available="true">
         <url>https://newwind.net.ua/ua/p1789791148-klapan-drosselnyj-kruglyj.html</url>
         <price>287</price>
@@ -11624,6 +11614,16 @@
         <name>Гарантіія 2 Роки</name>
         <vendorCode>HRV125</vendorCode>
         <picture>https://images.prom.ua/4607899308_w249_h200_rekuperator-povitrya-awenta.jpg</picture>
+        <description>&lt;![CDATA[Гарантіія 2 Роки — купити в інтернет-магазині NewWind.]]&gt;</description>
+      </offer>
+      <offer id="HRV125Р" available="true">
+        <url>https://newwind.net.ua/ua/p1871631999-rekuperator-vozduha-distantsionnym.html</url>
+        <price>15115</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <name>Гарантіія 2 Роки</name>
+        <vendorCode>HRV125Р</vendorCode>
+        <picture>https://images.prom.ua/4607899308_w249_h200_rekuperator-povitrya-z.jpg</picture>
         <description>&lt;![CDATA[Гарантіія 2 Роки — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="PEB100-White" available="true">
