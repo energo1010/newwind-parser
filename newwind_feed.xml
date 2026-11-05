@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<yml_catalog date="2026-11-04 03:36">
+<yml_catalog date="2026-11-05 03:40">
   <shop>
     <name>NewWind</name>
     <company>NewWind</company>
@@ -241,10 +241,10 @@
         <price>42773849</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–10%Залишилось 19 днів</name>
+        <name>–10%Залишилось 18 днів</name>
         <vendorCode>5210603100</vendorCode>
         <picture>https://images.prom.ua/7143165538_w249_h200_vityazhnij-ventilyator-dlya.jpg</picture>
-        <description>&lt;![CDATA[–10%Залишилось 19 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–10%Залишилось 18 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="5210072400" available="true">
         <url>https://newwind.net.ua/ua/p1320126930-vytyazhnoj-ventilyator-soler.html</url>
@@ -271,10 +271,10 @@
         <price>36473282</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–10%Залишилось 19 днів</name>
+        <name>–10%Залишилось 18 днів</name>
         <vendorCode>5210400700</vendorCode>
         <picture>https://images.prom.ua/2801876943_w249_h200_vityazhnij-ventilyator-soler.jpg</picture>
-        <description>&lt;![CDATA[–10%Залишилось 19 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–10%Залишилось 18 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="5210104500" available="true">
         <url>https://newwind.net.ua/ua/p1667397092-vytyazhnoj-ventilyator-soler.html</url>
@@ -321,10 +321,10 @@
         <price>29862687</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–10%Залишилось 19 днів</name>
+        <name>–10%Залишилось 18 днів</name>
         <vendorCode>5210001300</vendorCode>
         <picture>https://images.prom.ua/3947457795_w249_h200_vityazhnij-ventilyator-soler.jpg</picture>
-        <description>&lt;![CDATA[–10%Залишилось 19 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–10%Залишилось 18 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="5210424700" available="true">
         <url>https://newwind.net.ua/ua/p1317171339-vytyazhnoj-ventilyator-soler.html</url>
@@ -821,10 +821,10 @@
         <price>34133071</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–10%Залишилось 19 днів</name>
+        <name>–10%Залишилось 18 днів</name>
         <vendorCode>5210217900</vendorCode>
         <picture>https://images.prom.ua/4381431536_w249_h200_vityazhnij-ventilyator-dlya.jpg</picture>
-        <description>&lt;![CDATA[–10%Залишилось 19 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–10%Залишилось 18 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="5210218000" available="true">
         <url>https://newwind.net.ua/ua/p1804479054-vytyazhnoj-ventilyator-dlya.html</url>
@@ -1491,20 +1491,20 @@
         <price>59275562</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–6%Залишилось 19 днів</name>
+        <name>–6%Залишилось 18 днів</name>
         <vendorCode>TEZ-SPWHITE100cz</vendorCode>
         <picture>https://images.prom.ua/7685517662_w249_h200_vityazhnij-ventilyator-prihovanogo.jpg</picture>
-        <description>&lt;![CDATA[–6%Залишилось 19 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–6%Залишилось 18 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="TEZ-SPWHITE100crz" available="true">
         <url>https://newwind.net.ua/ua/p2943665305-vytyazhnoj-ventilyator-skrytogo.html</url>
         <price>82237627</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–7%Залишилось 19 днів</name>
+        <name>–7%Залишилось 18 днів</name>
         <vendorCode>TEZ-SPWHITE100crz</vendorCode>
         <picture>https://images.prom.ua/7685517662_w249_h200_vityazhnij-ventilyator-prihovanogo.jpg</picture>
-        <description>&lt;![CDATA[–7%Залишилось 19 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–7%Залишилось 18 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="TEZ-SPWHITE100chz" available="true">
         <url>https://newwind.net.ua/ua/p2943672357-vytyazhnoj-ventilyator-skrytogo.html</url>
@@ -1521,20 +1521,20 @@
         <price>59275562</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–6%Залишилось 19 днів</name>
+        <name>–6%Залишилось 18 днів</name>
         <vendorCode>TEZ-SPBLACK100cz</vendorCode>
         <picture>https://images.prom.ua/7143306279_w249_h200_vityazhnij-ventilyator-prihovanogo.jpg</picture>
-        <description>&lt;![CDATA[–6%Залишилось 19 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–6%Залишилось 18 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="TEZ-SPBLACK100crz" available="true">
         <url>https://newwind.net.ua/ua/p2944054617-vytyazhnoj-ventilyator-skrytogo.html</url>
         <price>82237627</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–7%Залишилось 19 днів</name>
+        <name>–7%Залишилось 18 днів</name>
         <vendorCode>TEZ-SPBLACK100crz</vendorCode>
         <picture>https://images.prom.ua/7143306279_w249_h200_vityazhnij-ventilyator-prihovanogo.jpg</picture>
-        <description>&lt;![CDATA[–7%Залишилось 19 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–7%Залишилось 18 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="TEZ-SPBLACK100chz" available="true">
         <url>https://newwind.net.ua/ua/p2944058090-vytyazhnoj-ventilyator-skrytogo.html</url>
@@ -1865,6 +1865,16 @@
         <vendorCode>02-231</vendorCode>
         <picture>https://images.prom.ua/3890113908_w249_h200_reshitka-ventilyatsijna-krugla.jpg</picture>
         <description>&lt;![CDATA[Решітка вентиляційна кругла пластикова  AirRoxy AOzS 100 graphite діаметр 100 мм чорна 02-231 — купити в інтернет-магазині NewWind.]]&gt;</description>
+      </offer>
+      <offer id="02-501GR" available="true">
+        <url>https://newwind.net.ua/ua/p1682114962-vytyazhnoj-kolpak-obratnym.html</url>
+        <price>326</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <name>Витяжний ковпак з зворотним клапаном AirRoxy 100 graphite пластик чорний 02-501GR</name>
+        <vendorCode>02-501GR</vendorCode>
+        <picture>https://images.prom.ua/4691628110_w249_h200_vityazhnij-kovpak-z.jpg</picture>
+        <description>&lt;![CDATA[Витяжний ковпак з зворотним клапаном AirRoxy 100 graphite пластик чорний 02-501GR — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="02-501BR" available="true">
         <url>https://newwind.net.ua/ua/p1682977457-vytyazhnoj-kolpak-obratnym.html</url>
@@ -3491,10 +3501,10 @@
         <price>730621</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–15%Залишилось 19 днів</name>
+        <name>–15%Залишилось 18 днів</name>
         <vendorCode>01-053</vendorCode>
         <picture>https://images.prom.ua/2797727396_w249_h200_ventilyator-vityazhnij-dlya.jpg</picture>
-        <description>&lt;![CDATA[–15%Залишилось 19 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–15%Залишилось 18 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="01-060" available="true">
         <url>https://newwind.net.ua/ua/p1315728164-vytyazhnoj-ventilyator-airroxy.html</url>
@@ -3511,20 +3521,20 @@
         <price>925786</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–15%Залишилось 19 днів</name>
+        <name>–15%Залишилось 18 днів</name>
         <vendorCode>01-095</vendorCode>
         <picture>https://images.prom.ua/5064105063_w249_h200_ventilyator-vityazhnij-dlya.jpg</picture>
-        <description>&lt;![CDATA[–15%Залишилось 19 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–15%Залишилось 18 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="01-090" available="true">
         <url>https://newwind.net.ua/ua/p1315858208-vytyazhnoj-ventilyator-dlya.html</url>
         <price>822699</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–15%Залишилось 19 днів</name>
+        <name>–15%Залишилось 18 днів</name>
         <vendorCode>01-090</vendorCode>
         <picture>https://images.prom.ua/2797727396_w249_h200_ventilyator-vityazhnij-dlya.jpg</picture>
-        <description>&lt;![CDATA[–15%Залишилось 19 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–15%Залишилось 18 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="01-005" available="true">
         <url>https://newwind.net.ua/ua/p1316443278-vytyazhnoj-ventilyator-dlya.html</url>
@@ -3811,10 +3821,10 @@
         <price>25792192</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>Гігростат–15%Залишилось 19 днів</name>
+        <name>Гігростат–15%Залишилось 18 днів</name>
         <vendorCode>01-045</vendorCode>
         <picture>https://images.prom.ua/2799812713_w249_h200_ventilyator-vityazhnij-kruglij.jpg</picture>
-        <description>&lt;![CDATA[Гігростат–15%Залишилось 19 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[Гігростат–15%Залишилось 18 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="05-086" available="true">
         <url>https://newwind.net.ua/ua/p1728579413-vytyazhnoj-ventilyator-tualeta.html</url>
@@ -4061,20 +4071,20 @@
         <price>999849</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–15%Залишилось 19 днів</name>
+        <name>–15%Залишилось 18 днів</name>
         <vendorCode>01-080</vendorCode>
         <picture>https://images.prom.ua/6973156749_w249_h200_ventilyator-vityazhnij-dlya.jpg</picture>
-        <description>&lt;![CDATA[–15%Залишилось 19 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–15%Залишилось 18 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="01-083" available="true">
         <url>https://newwind.net.ua/ua/p2852271776-vytyazhnoj-ventilyator-dlya.html</url>
         <price>999849</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–15%Залишилось 19 днів</name>
+        <name>–15%Залишилось 18 днів</name>
         <vendorCode>01-083</vendorCode>
         <picture>https://images.prom.ua/6973238628_w249_h200_ventilyator-vityazhnij-dlya.jpg</picture>
-        <description>&lt;![CDATA[–15%Залишилось 19 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–15%Залишилось 18 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="01-047" available="true">
         <url>https://newwind.net.ua/ua/p2989868207-vytyazhnoj-kruglyj-ventilyator.html</url>
@@ -4165,6 +4175,16 @@
         <vendorCode>02-459</vendorCode>
         <picture>https://images.prom.ua/4234526893_w249_h200_kolino-spoluchne-krugle.jpg</picture>
         <description>&lt;![CDATA[Коліно сполучне кругле діаметр 100 мм кут 90 airRoxy (02-459) — купити в інтернет-магазині NewWind.]]&gt;</description>
+      </offer>
+      <offer id="02-471" available="true">
+        <url>https://newwind.net.ua/ua/p1758532324-koleno-soedinitelnoe-krugloe.html</url>
+        <price>343</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <name>Коліно сполучне кругле діаметр 125 мм кут 90 градусів airRoxy (02-471)</name>
+        <vendorCode>02-471</vendorCode>
+        <picture>https://images.prom.ua/4234526893_w249_h200_kolino-spoluchne-krugle.jpg</picture>
+        <description>&lt;![CDATA[Коліно сполучне кругле діаметр 125 мм кут 90 градусів airRoxy (02-471) — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="02-496" available="true">
         <url>https://newwind.net.ua/ua/p1758532327-kruglyj-perehodnik-100.html</url>
@@ -4696,6 +4716,46 @@
         <picture>https://images.prom.ua/5385419582_w249_h200_povitroprovid-kruglij-alyuminiyevij.jpg</picture>
         <description>&lt;![CDATA[Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 120 мм довжина 3 м 03-009A — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
+      <offer id="03-001А" available="true">
+        <url>https://newwind.net.ua/ua/p2516592860-vozduhovod-kruglyj-alyuminievyj.html</url>
+        <price>440</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <name>Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 75 мм довжина 3 м 03-001A</name>
+        <vendorCode>03-001А</vendorCode>
+        <picture>https://images.prom.ua/6137738552_w249_h200_povitroprovid-kruglij-alyuminiyevij.jpg</picture>
+        <description>&lt;![CDATA[Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 75 мм довжина 3 м 03-001A — купити в інтернет-магазині NewWind.]]&gt;</description>
+      </offer>
+      <offer id="03-007А" available="true">
+        <url>https://newwind.net.ua/ua/p2516598840-vozduhovod-kruglyj-alyuminievyj.html</url>
+        <price>596</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <name>Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 110 мм довжина 3 м 03-007A</name>
+        <vendorCode>03-007А</vendorCode>
+        <picture>https://images.prom.ua/5385419126_w249_h200_povitroprovid-kruglij-alyuminiyevij.jpg</picture>
+        <description>&lt;![CDATA[Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 110 мм довжина 3 м 03-007A — купити в інтернет-магазині NewWind.]]&gt;</description>
+      </offer>
+      <offer id="03-011A" available="true">
+        <url>https://newwind.net.ua/ua/p2516607300-vozduhovod-kruglyj-alyuminievyj.html</url>
+        <price>747</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <name>Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 130 мм довжина 3 м 03-011A</name>
+        <vendorCode>03-011A</vendorCode>
+        <picture>https://images.prom.ua/5385419126_w249_h200_povitroprovid-kruglij-alyuminiyevij.jpg</picture>
+        <description>&lt;![CDATA[Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 130 мм довжина 3 м 03-011A — купити в інтернет-магазині NewWind.]]&gt;</description>
+      </offer>
+      <offer id="03-015А" available="true">
+        <url>https://newwind.net.ua/ua/p2516616494-vozduhovod-kruglyj-alyuminievyj.html</url>
+        <price>906</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <name>Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 160 мм довжина 3 м 03-015A</name>
+        <vendorCode>03-015А</vendorCode>
+        <picture>https://images.prom.ua/5867313540_w249_h200_povitroprovid-kruglij-alyuminiyevij.jpg</picture>
+        <description>&lt;![CDATA[Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 160 мм довжина 3 м 03-015A — купити в інтернет-магазині NewWind.]]&gt;</description>
+      </offer>
       <offer id="03-018А" available="true">
         <url>https://newwind.net.ua/ua/p2548163464-vozduhovod-kruglyj-alyuminievyj.html</url>
         <price>1142</price>
@@ -4735,6 +4795,16 @@
         <vendorCode>03-022А</vendorCode>
         <picture>https://images.prom.ua/5385419582_w249_h200_povitroprovid-kruglij-alyuminiyevij.jpg</picture>
         <description>&lt;![CDATA[Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 300 мм довжина 3 м 03-022A — купити в інтернет-магазині NewWind.]]&gt;</description>
+      </offer>
+      <offer id="03-023А" available="true">
+        <url>https://newwind.net.ua/ua/p2633604522-vozduhovod-kruglyj-alyuminievyj.html</url>
+        <price>1662</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <name>Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 315 мм довжина 3 м 03-023A</name>
+        <vendorCode>03-023А</vendorCode>
+        <picture>https://images.prom.ua/5385419582_w249_h200_povitroprovid-kruglij-alyuminiyevij.jpg</picture>
+        <description>&lt;![CDATA[Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 315 мм довжина 3 м 03-023A — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="03-004А" available="true">
         <url>https://newwind.net.ua/ua/p2694271479-vozduhovod-kruglyj-alyuminievyj.html</url>
@@ -4786,6 +4856,16 @@
         <picture>https://images.prom.ua/6137738552_w249_h200_povitroprovid-kruglij-alyuminiyevij.jpg</picture>
         <description>&lt;![CDATA[Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 95 мм довжина 3 м 03-005A — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
+      <offer id="03-008А" available="true">
+        <url>https://newwind.net.ua/ua/p2852328267-vozduhovod-kruglyj-alyuminievyj.html</url>
+        <price>673</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <name>Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 115 мм довжина 3 м 03-008A</name>
+        <vendorCode>03-008А</vendorCode>
+        <picture>https://images.prom.ua/6137738552_w249_h200_povitroprovid-kruglij-alyuminiyevij.jpg</picture>
+        <description>&lt;![CDATA[Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 115 мм довжина 3 м 03-008A — купити в інтернет-магазині NewWind.]]&gt;</description>
+      </offer>
       <offer id="03-012А" available="true">
         <url>https://newwind.net.ua/ua/p2888529035-vozduhovod-kruglyj-alyuminievyj.html</url>
         <price>790</price>
@@ -4825,6 +4905,16 @@
         <vendorCode>03-017А</vendorCode>
         <picture>https://images.prom.ua/5385419126_w249_h200_povitroprovid-kruglij-alyuminiyevij.jpg</picture>
         <description>&lt;![CDATA[Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 180 мм довжина 3 м 03-017A — купити в інтернет-магазині NewWind.]]&gt;</description>
+      </offer>
+      <offer id="03-019А" available="true">
+        <url>https://newwind.net.ua/ua/p2888542878-vozduhovod-kruglyj-alyuminievyj.html</url>
+        <price>1304</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <name>Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 225 мм довжина 3 м 03-019A</name>
+        <vendorCode>03-019А</vendorCode>
+        <picture>https://images.prom.ua/5385419126_w249_h200_povitroprovid-kruglij-alyuminiyevij.jpg</picture>
+        <description>&lt;![CDATA[Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 225 мм довжина 3 м 03-019A — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="03-021А" available="true">
         <url>https://newwind.net.ua/ua/p2932671641-vozduhovod-kruglyj-alyuminievyj.html</url>
@@ -9781,50 +9871,50 @@
         <price>267187</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–30%Залишилось 27 днів</name>
+        <name>–30%Залишилось 26 днів</name>
         <vendorCode>PEE100-Ecru</vendorCode>
         <picture>https://images.prom.ua/4655920186_w249_h200_panel-dlya-rekuperatoru.jpg</picture>
-        <description>&lt;![CDATA[–30%Залишилось 27 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–30%Залишилось 26 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="PEE125-Ecru" available="true">
         <url>https://newwind.net.ua/ua/p1884974492-panel-dlya-rekuperator.html</url>
         <price>369258</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–30%Залишилось 27 днів</name>
+        <name>–30%Залишилось 26 днів</name>
         <vendorCode>PEE125-Ecru</vendorCode>
         <picture>https://images.prom.ua/4655920186_w249_h200_panel-dlya-rekuperatoru.jpg</picture>
-        <description>&lt;![CDATA[–30%Залишилось 27 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–30%Залишилось 26 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="PES100-Silver" available="true">
         <url>https://newwind.net.ua/ua/p1884974885-panel-dlya-rekuperator.html</url>
         <price>472330</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–30%Залишилось 27 днів</name>
+        <name>–30%Залишилось 26 днів</name>
         <vendorCode>PES100-Silver</vendorCode>
         <picture>https://images.prom.ua/4655940521_w249_h200_panel-dlya-rekuperatoru.jpg</picture>
-        <description>&lt;![CDATA[–30%Залишилось 27 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–30%Залишилось 26 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="PES125-Silver" available="true">
         <url>https://newwind.net.ua/ua/p1884976322-panel-dlya-rekuperator.html</url>
         <price>574402</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–30%Залишилось 27 днів</name>
+        <name>–30%Залишилось 26 днів</name>
         <vendorCode>PES125-Silver</vendorCode>
         <picture>https://images.prom.ua/4655940521_w249_h200_panel-dlya-rekuperatoru.jpg</picture>
-        <description>&lt;![CDATA[–30%Залишилось 27 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–30%Залишилось 26 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="PEZ125-Gold" available="true">
         <url>https://newwind.net.ua/ua/p1884976680-panel-zolotistaya-dlya.html</url>
         <price>574402</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–30%Залишилось 27 днів</name>
+        <name>–30%Залишилось 26 днів</name>
         <vendorCode>PEZ125-Gold</vendorCode>
         <picture>https://images.prom.ua/4655946536_w249_h200_panel-zolotista-dlya.jpg</picture>
-        <description>&lt;![CDATA[–30%Залишилось 27 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–30%Залишилось 26 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="VO2448" available="true">
         <url>https://newwind.net.ua/ua/p2385646769-teploventilyator-stoyachij-lezhachij.html</url>
@@ -9871,10 +9961,10 @@
         <price>23282095</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–10%Залишилось 19 днів</name>
+        <name>–10%Залишилось 18 днів</name>
         <vendorCode>VO0605</vendorCode>
         <picture>https://images.prom.ua/5742341784_w249_h200_ultrazvukovij-zvolozhuvach-povitrya.jpg</picture>
-        <description>&lt;![CDATA[–10%Залишилось 19 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–10%Залишилось 18 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="VO0658" available="true">
         <url>https://newwind.net.ua/ua/p2594334761-bytovoj-nastolnyj-ventilyator.html</url>
@@ -9891,10 +9981,10 @@
         <price>1082974</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–10%Залишилось 19 днів</name>
+        <name>–10%Залишилось 18 днів</name>
         <vendorCode>VO0855</vendorCode>
         <picture>https://images.prom.ua/5737122031_w249_h200_ultrazvukovij-usb-zvolozhuvach-povitrya.jpg</picture>
-        <description>&lt;![CDATA[–10%Залишилось 19 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–10%Залишилось 18 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="VO1941" available="true">
         <url>https://newwind.net.ua/ua/p2595271243-bytovoj-nastolnyj-ventilyator.html</url>
@@ -9905,6 +9995,16 @@
         <vendorCode>VO1941</vendorCode>
         <picture>https://images.prom.ua/6631847787_w249_h200_pobutovij-nastilnij-ventilyator.jpg</picture>
         <description>&lt;![CDATA[Побутовий настільний вентилятор Volteno VO1941 хром метал — купити в інтернет-магазині NewWind.]]&gt;</description>
+      </offer>
+      <offer id="VO0846" available="true">
+        <url>https://newwind.net.ua/ua/p2593590669-ultrazvukovoj-uvlazhnitel-vozduha.html</url>
+        <price>2603</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <name>Ультразвуковий зволожувач повітря з ароматерапією і лампою Volteno VO0846</name>
+        <vendorCode>VO0846</vendorCode>
+        <picture>https://images.prom.ua/6629365750_w249_h200_ultrazvukovij-zvolozhuvach-povitrya.jpg</picture>
+        <description>&lt;![CDATA[Ультразвуковий зволожувач повітря з ароматерапією і лампою Volteno VO0846 — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="VO0856" available="true">
         <url>https://newwind.net.ua/ua/p2190192912-ultrazvukovoj-uvlazhnitel-vozduha.html</url>
@@ -9921,10 +10021,10 @@
         <price>14371293</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–10%Залишилось 19 днів</name>
+        <name>–10%Залишилось 18 днів</name>
         <vendorCode>VO0849</vendorCode>
         <picture>https://images.prom.ua/6629369404_w249_h200_ultrazvukovij-zvolozhuvach-povitrya.jpg</picture>
-        <description>&lt;![CDATA[–10%Залишилось 19 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–10%Залишилось 18 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="VO0020" available="true">
         <url>https://newwind.net.ua/ua/p2181003221-bytovoj-nastolnyj-ventilyator.html</url>
@@ -9961,30 +10061,40 @@
         <price>77277495</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–3%Залишилось 19 днів</name>
+        <name>–3%Залишилось 18 днів</name>
         <vendorCode>VO2137</vendorCode>
         <picture>https://images.prom.ua/5742271038_w249_h200_ochischuvach-povitrya-volteno.jpg</picture>
-        <description>&lt;![CDATA[–3%Залишилось 19 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–3%Залишилось 18 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="VO0847" available="true">
         <url>https://newwind.net.ua/ua/p2190204533-ultrazvukovoj-uvlazhnitel-vozduha.html</url>
         <price>20811849</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–11%Залишилось 19 днів</name>
+        <name>–11%Залишилось 18 днів</name>
         <vendorCode>VO0847</vendorCode>
         <picture>https://images.prom.ua/5742265207_w249_h200_ultrazvukovij-zvolozhuvach-povitrya.jpg</picture>
-        <description>&lt;![CDATA[–11%Залишилось 19 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–11%Залишилось 18 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+      </offer>
+      <offer id="VO2829" available="true">
+        <url>https://newwind.net.ua/ua/p2036886005-maslyanyj-radiator-obogrevatel.html</url>
+        <price>3380</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <name>Масляний радіатор обігрівач 11 ребер Volteno 1200 Вт mini VO2829 чорний</name>
+        <vendorCode>VO2829</vendorCode>
+        <picture>https://images.prom.ua/5175113322_w249_h200_maslyanij-radiator-obigrivach.jpg</picture>
+        <description>&lt;![CDATA[Масляний радіатор обігрівач 11 ребер Volteno 1200 Вт mini VO2829 чорний — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="VO2138" available="true">
         <url>https://newwind.net.ua/ua/p2183980269-vozduhoochistitel-volteno-vo2138.html</url>
         <price>80377805</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–3%Залишилось 19 днів</name>
+        <name>–3%Залишилось 18 днів</name>
         <vendorCode>VO2138</vendorCode>
         <picture>https://images.prom.ua/5744309860_w249_h200_ochischuvach-povitrya-volteno.jpg</picture>
-        <description>&lt;![CDATA[–3%Залишилось 19 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–3%Залишилось 18 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="VO0857" available="true">
         <url>https://newwind.net.ua/ua/p2190185005-ultrazvukovoj-uvlazhnitel-vozduha.html</url>
@@ -10001,30 +10111,30 @@
         <price>23182086</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–10%Залишилось 19 днів</name>
+        <name>–10%Залишилось 18 днів</name>
         <vendorCode>VO2140</vendorCode>
         <picture>https://images.prom.ua/5742401430_w249_h200_zvolozhuvach-povitrya-z.jpg</picture>
-        <description>&lt;![CDATA[–10%Залишилось 19 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–10%Залишилось 18 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="VO0854" available="true">
         <url>https://newwind.net.ua/ua/p2191917171-ultrazvukovoj-uvlazhnitel-vozduha.html</url>
         <price>27352462</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–10%Залишилось 19 днів</name>
+        <name>–10%Залишилось 18 днів</name>
         <vendorCode>VO0854</vendorCode>
         <picture>https://images.prom.ua/5743729578_w249_h200_ultrazvukovij-zvolozhuvach-povitrya.jpg</picture>
-        <description>&lt;![CDATA[–10%Залишилось 19 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–10%Залишилось 18 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="VO3001" available="true">
         <url>https://newwind.net.ua/ua/p2191938577-ultrazvukovoj-uvlazhnitel-distantsionnym.html</url>
         <price>34693122</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
-        <name>–10%Залишилось 19 днів</name>
+        <name>–10%Залишилось 18 днів</name>
         <vendorCode>VO3001</vendorCode>
         <picture>https://images.prom.ua/5743776124_w249_h200_ultrazvukovij-zvolozhuvach-povitrya.jpg</picture>
-        <description>&lt;![CDATA[–10%Залишилось 19 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
+        <description>&lt;![CDATA[–10%Залишилось 18 днів — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="VO0848" available="true">
         <url>https://newwind.net.ua/ua/p2593578281-ultrazvukovoj-uvlazhnitel-vozduha.html</url>
@@ -10035,6 +10145,26 @@
         <vendorCode>VO0848</vendorCode>
         <picture>https://images.prom.ua/6629362543_w249_h200_ultrazvukovij-zvolozhuvach-povitrya.jpg</picture>
         <description>&lt;![CDATA[Ультразвуковий зволожувач повітря Volteno VO0848 — купити в інтернет-магазині NewWind.]]&gt;</description>
+      </offer>
+      <offer id="VO0276" available="true">
+        <url>https://newwind.net.ua/ua/p2378807867-maslyanyj-radiator-obogrevatel.html</url>
+        <price>2078</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <name>Масляний радіатор обігрівач 5 ребер Volteno 500 Вт mini VO0276 чорний</name>
+        <vendorCode>VO0276</vendorCode>
+        <picture>https://images.prom.ua/5175113322_w249_h200_maslyanij-radiator-obigrivach.jpg</picture>
+        <description>&lt;![CDATA[Масляний радіатор обігрівач 5 ребер Volteno 500 Вт mini VO0276 чорний — купити в інтернет-магазині NewWind.]]&gt;</description>
+      </offer>
+      <offer id="VO0277" available="true">
+        <url>https://newwind.net.ua/ua/p2378819693-maslyanyj-radiator-obogrevatel.html</url>
+        <price>2915</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <name>Масляний радіатор обігрівач 9 ребер Volteno 1000 Вт mini VO277 чорний</name>
+        <vendorCode>VO0277</vendorCode>
+        <picture>https://images.prom.ua/6312009625_w249_h200_maslyanij-radiator-obigrivach.jpg</picture>
+        <description>&lt;![CDATA[Масляний радіатор обігрівач 9 ребер Volteno 1000 Вт mini VO277 чорний — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="VO2564" available="true">
         <url>https://newwind.net.ua/ua/p2607476176-bytovoj-napolnyj-ventilyator.html</url>
@@ -10055,6 +10185,16 @@
         <vendorCode>VO2558</vendorCode>
         <picture>https://images.prom.ua/6694971507_w249_h200_pobutovij-pidlogovij-ventilyator.jpg</picture>
         <description>&lt;![CDATA[Побутовий підлоговий вентилятор Volteno VO2558 білий — купити в інтернет-магазині NewWind.]]&gt;</description>
+      </offer>
+      <offer id="VO0278" available="true">
+        <url>https://newwind.net.ua/ua/p2801074465-obogrevatel-keramicheskij-povorotnyj.html</url>
+        <price>1644</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <name>Обігрівач керамічний поворотний Volteno 1500 Вт VO0278</name>
+        <vendorCode>VO0278</vendorCode>
+        <picture>https://images.prom.ua/6899182835_w249_h200_obigrivach-keramichnij-povorotnij.jpg</picture>
+        <description>&lt;![CDATA[Обігрівач керамічний поворотний Volteno 1500 Вт VO0278 — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="VO2557" available="true">
         <url>https://newwind.net.ua/ua/p3028043700-bytovoj-napolnyj-ventilyator.html</url>
@@ -10606,16 +10746,6 @@
         <picture>https://images.prom.ua/3501682765_w249_h200_reshitka-ventilyatsijna-krugla.jpg</picture>
         <description>&lt;![CDATA[Решітка вентиляційна кругла пластикова  AirRoxy AOzS 150 white діаметр 150 мм біла 02-152 — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
-      <offer id="02-501GR" available="true">
-        <url>https://newwind.net.ua/ua/p1682114962-vytyazhnoj-kolpak-obratnym.html</url>
-        <price>326</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1</categoryId>
-        <name>Витяжний ковпак з зворотним клапаном AirRoxy 100 graphite пластик чорний 02-501GR</name>
-        <vendorCode>02-501GR</vendorCode>
-        <picture>https://images.prom.ua/4691628110_w249_h200_vityazhnij-kovpak-z.jpg</picture>
-        <description>&lt;![CDATA[Витяжний ковпак з зворотним клапаном AirRoxy 100 graphite пластик чорний 02-501GR — купити в інтернет-магазині NewWind.]]&gt;</description>
-      </offer>
       <offer id="02-212" available="true">
         <url>https://newwind.net.ua/ua/p2093767095-reshetka-ventilyatsionnaya-kruglaya.html</url>
         <price>67</price>
@@ -10746,16 +10876,6 @@
         <picture>https://images.prom.ua/3027718850_w249_h200_ventilyator-vityazhnij-dlya.jpg</picture>
         <description>&lt;![CDATA[Вентилятор витяжний  для ванної  з таймером і датчиком вологості АirRoxy pRemium 120 HS білий 01-020 — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
-      <offer id="02-471" available="true">
-        <url>https://newwind.net.ua/ua/p1758532324-koleno-soedinitelnoe-krugloe.html</url>
-        <price>343</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1</categoryId>
-        <name>Коліно сполучне кругле діаметр 125 мм кут 90 градусів airRoxy (02-471)</name>
-        <vendorCode>02-471</vendorCode>
-        <picture>https://images.prom.ua/4234526893_w249_h200_kolino-spoluchne-krugle.jpg</picture>
-        <description>&lt;![CDATA[Коліно сполучне кругле діаметр 125 мм кут 90 градусів airRoxy (02-471) — купити в інтернет-магазині NewWind.]]&gt;</description>
-      </offer>
       <offer id="ZZ125" available="true">
         <url>https://newwind.net.ua/ua/p1871635926-obratnyj-klapan-awenta.html</url>
         <price>220</price>
@@ -10765,76 +10885,6 @@
         <vendorCode>ZZ125</vendorCode>
         <picture>https://images.prom.ua/4642597076_w249_h200_zvorotnij-klapan-awenta.jpg</picture>
         <description>&lt;![CDATA[Зворотний клапан AWENTA  ZZ 125 для вентилятора AIRROXY dRim 125 мм і planet energy — купити в інтернет-магазині NewWind.]]&gt;</description>
-      </offer>
-      <offer id="03-001А" available="true">
-        <url>https://newwind.net.ua/ua/p2516592860-vozduhovod-kruglyj-alyuminievyj.html</url>
-        <price>440</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1</categoryId>
-        <name>Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 75 мм довжина 3 м 03-001A</name>
-        <vendorCode>03-001А</vendorCode>
-        <picture>https://images.prom.ua/6137738552_w249_h200_povitroprovid-kruglij-alyuminiyevij.jpg</picture>
-        <description>&lt;![CDATA[Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 75 мм довжина 3 м 03-001A — купити в інтернет-магазині NewWind.]]&gt;</description>
-      </offer>
-      <offer id="03-007А" available="true">
-        <url>https://newwind.net.ua/ua/p2516598840-vozduhovod-kruglyj-alyuminievyj.html</url>
-        <price>596</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1</categoryId>
-        <name>Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 110 мм довжина 3 м 03-007A</name>
-        <vendorCode>03-007А</vendorCode>
-        <picture>https://images.prom.ua/5385419126_w249_h200_povitroprovid-kruglij-alyuminiyevij.jpg</picture>
-        <description>&lt;![CDATA[Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 110 мм довжина 3 м 03-007A — купити в інтернет-магазині NewWind.]]&gt;</description>
-      </offer>
-      <offer id="03-011A" available="true">
-        <url>https://newwind.net.ua/ua/p2516607300-vozduhovod-kruglyj-alyuminievyj.html</url>
-        <price>747</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1</categoryId>
-        <name>Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 130 мм довжина 3 м 03-011A</name>
-        <vendorCode>03-011A</vendorCode>
-        <picture>https://images.prom.ua/5385419126_w249_h200_povitroprovid-kruglij-alyuminiyevij.jpg</picture>
-        <description>&lt;![CDATA[Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 130 мм довжина 3 м 03-011A — купити в інтернет-магазині NewWind.]]&gt;</description>
-      </offer>
-      <offer id="03-015А" available="true">
-        <url>https://newwind.net.ua/ua/p2516616494-vozduhovod-kruglyj-alyuminievyj.html</url>
-        <price>906</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1</categoryId>
-        <name>Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 160 мм довжина 3 м 03-015A</name>
-        <vendorCode>03-015А</vendorCode>
-        <picture>https://images.prom.ua/5867313540_w249_h200_povitroprovid-kruglij-alyuminiyevij.jpg</picture>
-        <description>&lt;![CDATA[Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 160 мм довжина 3 м 03-015A — купити в інтернет-магазині NewWind.]]&gt;</description>
-      </offer>
-      <offer id="03-023А" available="true">
-        <url>https://newwind.net.ua/ua/p2633604522-vozduhovod-kruglyj-alyuminievyj.html</url>
-        <price>1662</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1</categoryId>
-        <name>Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 315 мм довжина 3 м 03-023A</name>
-        <vendorCode>03-023А</vendorCode>
-        <picture>https://images.prom.ua/5385419582_w249_h200_povitroprovid-kruglij-alyuminiyevij.jpg</picture>
-        <description>&lt;![CDATA[Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 315 мм довжина 3 м 03-023A — купити в інтернет-магазині NewWind.]]&gt;</description>
-      </offer>
-      <offer id="03-008А" available="true">
-        <url>https://newwind.net.ua/ua/p2852328267-vozduhovod-kruglyj-alyuminievyj.html</url>
-        <price>673</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1</categoryId>
-        <name>Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 115 мм довжина 3 м 03-008A</name>
-        <vendorCode>03-008А</vendorCode>
-        <picture>https://images.prom.ua/6137738552_w249_h200_povitroprovid-kruglij-alyuminiyevij.jpg</picture>
-        <description>&lt;![CDATA[Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 115 мм довжина 3 м 03-008A — купити в інтернет-магазині NewWind.]]&gt;</description>
-      </offer>
-      <offer id="03-019А" available="true">
-        <url>https://newwind.net.ua/ua/p2888542878-vozduhovod-kruglyj-alyuminievyj.html</url>
-        <price>1304</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1</categoryId>
-        <name>Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 225 мм довжина 3 м 03-019A</name>
-        <vendorCode>03-019А</vendorCode>
-        <picture>https://images.prom.ua/5385419126_w249_h200_povitroprovid-kruglij-alyuminiyevij.jpg</picture>
-        <description>&lt;![CDATA[Повітропровід круглий алюмінієвий неізольований гнучкий діаметром 225 мм довжина 3 м 03-019A — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="5144308100" available="true">
         <url>https://newwind.net.ua/ua/p1767795270-rekuperator-vozduha-soler.html</url>
@@ -11726,16 +11776,6 @@
         <picture>https://images.prom.ua/6631831712_w249_h200_pobutovij-nastilnij-ventilyator.jpg</picture>
         <description>&lt;![CDATA[Побутовий настільний вентилятор Volteno VO1940 мідний — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
-      <offer id="VO0846" available="true">
-        <url>https://newwind.net.ua/ua/p2593590669-ultrazvukovoj-uvlazhnitel-vozduha.html</url>
-        <price>2603</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1</categoryId>
-        <name>Ультразвуковий зволожувач повітря з ароматерапією і лампою Volteno VO0846</name>
-        <vendorCode>VO0846</vendorCode>
-        <picture>https://images.prom.ua/6629365750_w249_h200_ultrazvukovij-zvolozhuvach-povitrya.jpg</picture>
-        <description>&lt;![CDATA[Ультразвуковий зволожувач повітря з ароматерапією і лампою Volteno VO0846 — купити в інтернет-магазині NewWind.]]&gt;</description>
-      </offer>
       <offer id="VO2547" available="true">
         <url>https://newwind.net.ua/ua/p2641712548-bytovoj-nastolnyj-ventilyator.html</url>
         <price>849</price>
@@ -11996,16 +12036,6 @@
         <picture>https://images.prom.ua/5174984808_w249_h200_maslyanij-radiator-obigrivach.jpg</picture>
         <description>&lt;![CDATA[Масляний радіатор обігрівач 11 ребер Volteno 2500 Вт VO0274 сірий — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
-      <offer id="VO2829" available="true">
-        <url>https://newwind.net.ua/ua/p2036886005-maslyanyj-radiator-obogrevatel.html</url>
-        <price>3380</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1</categoryId>
-        <name>Масляний радіатор обігрівач 11 ребер Volteno 1200 Вт mini VO2829 чорний</name>
-        <vendorCode>VO2829</vendorCode>
-        <picture>https://images.prom.ua/5175113322_w249_h200_maslyanij-radiator-obigrivach.jpg</picture>
-        <description>&lt;![CDATA[Масляний радіатор обігрівач 11 ребер Volteno 1200 Вт mini VO2829 чорний — купити в інтернет-магазині NewWind.]]&gt;</description>
-      </offer>
       <offer id="VO0851" available="true">
         <url>https://newwind.net.ua/ua/p2191040455-ultrazvukovoj-uvlazhnitel-vozduha.html</url>
         <price>1391</price>
@@ -12025,26 +12055,6 @@
         <vendorCode>VO0284</vendorCode>
         <picture>https://images.prom.ua/6311937889_w249_h200_obigrivach-kvartsovij-volteno.jpg</picture>
         <description>&lt;![CDATA[Обігрівач кварцовий Volteno 800 Вт VO0284 — купити в інтернет-магазині NewWind.]]&gt;</description>
-      </offer>
-      <offer id="VO0276" available="true">
-        <url>https://newwind.net.ua/ua/p2378807867-maslyanyj-radiator-obogrevatel.html</url>
-        <price>2078</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1</categoryId>
-        <name>Масляний радіатор обігрівач 5 ребер Volteno 500 Вт mini VO0276 чорний</name>
-        <vendorCode>VO0276</vendorCode>
-        <picture>https://images.prom.ua/5175113322_w249_h200_maslyanij-radiator-obigrivach.jpg</picture>
-        <description>&lt;![CDATA[Масляний радіатор обігрівач 5 ребер Volteno 500 Вт mini VO0276 чорний — купити в інтернет-магазині NewWind.]]&gt;</description>
-      </offer>
-      <offer id="VO0277" available="true">
-        <url>https://newwind.net.ua/ua/p2378819693-maslyanyj-radiator-obogrevatel.html</url>
-        <price>2915</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1</categoryId>
-        <name>Масляний радіатор обігрівач 9 ребер Volteno 1000 Вт mini VO277 чорний</name>
-        <vendorCode>VO0277</vendorCode>
-        <picture>https://images.prom.ua/6312009625_w249_h200_maslyanij-radiator-obigrivach.jpg</picture>
-        <description>&lt;![CDATA[Масляний радіатор обігрівач 9 ребер Volteno 1000 Вт mini VO277 чорний — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
       <offer id="VO2563" available="true">
         <url>https://newwind.net.ua/ua/p2607426297-bytovoj-napolnyj-ventilyator.html</url>
@@ -12134,16 +12144,6 @@
         <name>Новинка</name>
         <vendorCode>VO2520</vendorCode>
         <picture>https://images.prom.ua/6899314999_w249_h200_obigrivach-elektrichnij-teploventilyator.jpg</picture>
-        <description>&lt;![CDATA[Новинка — купити в інтернет-магазині NewWind.]]&gt;</description>
-      </offer>
-      <offer id="VO0278" available="true">
-        <url>https://newwind.net.ua/ua/p2801074465-obogrevatel-keramicheskij-povorotnyj.html</url>
-        <price>1644</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1</categoryId>
-        <name>Новинка</name>
-        <vendorCode>VO0278</vendorCode>
-        <picture>https://images.prom.ua/6899182835_w249_h200_obigrivach-keramichnij-povorotnij.jpg</picture>
         <description>&lt;![CDATA[Новинка — купити в інтернет-магазині NewWind.]]&gt;</description>
       </offer>
     </offers>
